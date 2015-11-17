@@ -1,0 +1,17 @@
+d:\users\forpatril\documents\visual studio 2010\Projects\Hungarian\Hungarian\bin\Debug\Hungarian.exe
+d:\users\forpatril\documents\visual studio 2010\Projects\Hungarian\Hungarian\bin\Debug\Hungarian.pdb
+d:\users\forpatril\documents\visual studio 2010\Projects\Hungarian\Hungarian\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\forpatril\documents\visual studio 2010\Projects\Hungarian\Hungarian\obj\x86\Debug\Hungarian.exe
+d:\users\forpatril\documents\visual studio 2010\Projects\Hungarian\Hungarian\obj\x86\Debug\Hungarian.pdb
+D:\Users\Forpatril\Documents\Visual Studio 2010\Projects\Hungarian.con\Hungarian\obj\x86\Debug\Hungarian.exe
+D:\Users\Forpatril\Documents\Visual Studio 2010\Projects\Hungarian.con\Hungarian\obj\x86\Debug\Hungarian.pdb
+D:\Users\Forpatril\Documents\Visual Studio 2010\Projects\Hungarian.con\Hungarian\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Forpatril\Documents\Visual Studio 2010\Projects\Hungarian.con\Hungarian\bin\Debug\Hungarian.exe
+D:\Users\Forpatril\Documents\Visual Studio 2010\Projects\Hungarian.con\Hungarian\bin\Debug\Hungarian.pdb
+D:\Users\Forpatril\Documents\Visual Studio 2015\Projects\Hungarian\Hungarian\obj\x86\Debug\Hungarian.exe
+D:\Users\Forpatril\Documents\Visual Studio 2015\Projects\Hungarian\Hungarian\obj\x86\Debug\Hungarian.pdb
+D:\Users\Forpatril\Documents\Visual Studio 2015\Projects\Hungarian\Hungarian\bin\Debug\Hungarian.exe
+D:\Users\Forpatril\Documents\Visual Studio 2015\Projects\Hungarian\Hungarian\bin\Debug\Hungarian.pdb
+D:\Users\Forpatril\Documents\Visual Studio 2015\Projects\Hungarian\Hungarian\obj\x86\Debug\Hungarian.csprojResolveAssemblyReference.cache
+D:\Users\Forpatril\Documents\Visual Studio 2012\Projects\Hungarian\Hungarian\obj\x86\Debug\Hungarian.exe
+D:\Users\Forpatril\Documents\Visual Studio 2012\Projects\Hungarian\Hungarian\obj\x86\Debug\Hungarian.pdb
